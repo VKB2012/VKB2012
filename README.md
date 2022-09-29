@@ -1,6 +1,8 @@
 
 <h1 align="center">Opa 👋, Meu nome é Vinícius</h1>
 <h3 align="center">Desenvolvedor iniciante</h3>
+![github-cat](https://user-images.githubusercontent.com/84641482/193117253-b17d7c8a-703f-4328-a4ac-d4ccd91747bd.gif)
+![images](https://user-images.githubusercontent.com/84641482/193117263-7a091deb-8e69-457b-8968-b638f0024f50.png)
 
 
 ![68747470733a2f2f692e6962622e636f2f6d30785a424b742f6769742e676966](https://user-images.githubusercontent.com/84641482/193116489-f7be1e7f-309a-462b-8f0f-ad01e86ce2cf.gif)
