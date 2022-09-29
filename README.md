@@ -1,5 +1,11 @@
+
 <h1 align="center">Opa 👋, Meu nome é Vinícius</h1>
 <h3 align="center">Desenvolvedor iniciante</h3>
+
+
+![68747470733a2f2f692e6962622e636f2f6d30785a424b742f6769742e676966](https://user-images.githubusercontent.com/84641482/193116489-f7be1e7f-309a-462b-8f0f-ad01e86ce2cf.gif)
+
+
 
 - ⌨️ Como falar comigo **vinikborini@gmail.com**
 
