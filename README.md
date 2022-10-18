@@ -17,7 +17,7 @@ Me chamo <b> Vinícius Kovalhuk Borini, tenho 19 anos e curso Ciencias da Comput
 
 
  - 👩‍💻 Estudo na Puc-PR, cursando Ciencias da Computacao
- - 💼 Sou gosto de tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
+ - 💼 Gosto de tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
  - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
  - 📫 Se quiser pode enviar um email: vinikborini@gmail.com.
   
