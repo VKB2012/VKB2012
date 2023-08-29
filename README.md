@@ -38,7 +38,7 @@ Me chamo <b> Vinícius Kovalhuk Borini, tenho 20 anos e curso Ciencias da Comput
 
 <h3 align="left">Fale comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vin%c3%adcius-kovalhuk-borini-863847247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vin%c3%adcius-kovalhuk-borini-863847247" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vin%c3%adcius-kovalhuk-borini-863847247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinícius-kovalhuk-borini/" height="30" width="40" /></a>
 <a href="https://discord.gg/VKB#4322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="VKB#4322" height="30" width="40" /></a>
  
 
