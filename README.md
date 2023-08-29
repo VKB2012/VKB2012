@@ -10,7 +10,7 @@ Opa 👋, Meu nome é Vinícius</h1>
 
 
 
-Me chamo <b> Vinícius Kovalhuk Borini, tenho 19 anos e curso Ciencias da Computacao na Puc-PR,  </b>
+Me chamo <b> Vinícius Kovalhuk Borini, tenho 20 anos e curso Ciencias da Computacao na Puc-PR,  </b>
 
 <hr />
   <img align="right" alt="PNG" src="https://user-images.githubusercontent.com/84641482/193365352-b80fc5bd-0c08-46c4-b48f-143ae52f6c24.png" width="400px" />
