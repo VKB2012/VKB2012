@@ -2,7 +2,7 @@
 <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/84641482/193364914-31168c27-3ef5-40f0-9862-86e856fd1a42.gif" width="400px" />
 
 Opa 👋, Meu nome é Vinícius</h1>
-<h3 align="center">Desenvolvedor iniciante
+<h3 align="center">Analista de dados iniciante
 
 
 ---------------
@@ -10,13 +10,14 @@ Opa 👋, Meu nome é Vinícius</h1>
 
 
 
-Me chamo <b> Vinícius Kovalhuk Borini, tenho 20 anos e curso Ciencias da Computacao na Puc-PR,  </b>
+Me chamo <b> Vinícius Kovalhuk Borini, tenho 22 anos e curso minha Pós em Banco de Dados e Big Data,  </b>
 
 <hr />
-  <img align="right" alt="PNG" src="https://user-images.githubusercontent.com/84641482/193365352-b80fc5bd-0c08-46c4-b48f-143ae52f6c24.png" width="400px" />
 
 
- - 👩‍💻 Estudo na Puc-PR, cursando Ciencias da Computacao
+
+ - 👩‍💻 Estudo na PUC-PR, cursando Pós em Banco de Dados e Big Data
+ - 👩‍💻 Sou formado na PUC-PR em Ciências da Computação
  - 💼 Gosto de tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
  - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
  - 📫 Se quiser pode enviar um email: vinikborini@gmail.com.
@@ -27,12 +28,6 @@ Me chamo <b> Vinícius Kovalhuk Borini, tenho 20 anos e curso Ciencias da Comput
 ---------------
   
 <p align="left" >
-
-
-<a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VKB2012&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VKB2012&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</h3>
 
   
 
